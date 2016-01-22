@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "17-Jan-2016: Images from Autographer camera inside the Carolan Guitar",
+  "rdfs:comment": "Images taken by an Autographer camera inside the Carolan Guitar during the Phil Langran band performance at The Maze, Nottingham",
+  "coll:web_resource": "https://flic.kr/s/aHsktiSJNX",
+  "annal:type_id": "Web_resource",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "20160117_Autographer",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Web_resource"
+}

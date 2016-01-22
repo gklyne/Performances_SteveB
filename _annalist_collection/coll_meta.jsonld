@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Steve B performance data",
+  "rdfs:comment": "Performance data collection by Steve Benford and colleagues.",
+  "annal:software_version": "0.1.23",
+  "annal:type_id": "_coll",
+  "annal:inherit_from": "_coll/Performance_defs",
+  "annal:comment": "Created by GK: 2016-01-21",
+  "annal:default_list": "Journal_entries",
+  "annal:default_view_id": "Journal_note_view",
+  "annal:default_view_type": "Journal",
+  "annal:default_view_entity": "00_contents",
+  "@context": [
+    "coll_context.jsonld"
+  ],
+  "annal:id": "Performances_SteveB",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

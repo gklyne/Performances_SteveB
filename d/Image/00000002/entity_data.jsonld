@@ -1,0 +1,22 @@
+{
+  "rdfs:label": "Writing hand button",
+  "rdfs:comment": "Writing hand button (edit field value)",
+  "annal:type_id": "Image",
+  "@type": [
+    "coll:Image",
+    "annal:EntityData"
+  ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "00000002",
+  "@id": "./",
+  "coll:image": {
+    "upload_name": "Uploaded_image",
+    "resource_name": "Uploaded_image.png",
+    "uploaded_size": 4192,
+    "uploaded_file": "Writing_hand_button.png",
+    "resource_type": "image/png"
+  },
+  "annal:type": "coll:Image"
+}

@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Summary of collection",
+  "rdfs:comment": "This collection has been created for collecting media resources relating to a performance on 17 Jan 2016 at The Maze, Nottingham, or the Phil Langran Band and Carmina.\r\n\r\nInstructions for adding new resources are at [Journal/01_instructions](/annalist/c/Performances_SteveB/d/Journal/01_instructions/).\r\n\r\n## Resources in this collection\r\n\r\nPrimary resources are supplied in the first instance as attachments to Journal entries:\r\n\r\n* [Journal entries and general commentary](/annalist/c/Performances_SteveB/d/Journal/)\r\n* [Web resources](/annalist/c/Performances_SteveB/d/Web_resource/)\r\n* [Uploaded audio](/annalist/c/Performances_SteveB/d/Audio/)\r\n* [Uploaded images](/annalist/c/Performances_SteveB/d/Image/)\r\n\r\nPerformances and performers:\r\n\r\n* [Performances and other events](/annalist/c/Performances_SteveB/d/Event/)\r\n* [Performers and other people](/annalist/c/Performances_SteveB/d/Agent/)\r\n* [Venues and other places](/annalist/c/Performances_SteveB/d/Place/)\r\n* [Instruments and artifacts](/annalist/c/Performances_SteveB/d/Artifact/)\r\n* [Performed compositions](/annalist/c/Performances_SteveB/d/Performed_work/)\r\n* [Recordings](/annalist/c/Performances_SteveB/d/Recording/)\r\n\r\n",
+  "coll:resources": [],
+  "coll:location": "",
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:images": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "00_contents",
+  "@id": "./",
+  "coll:date": "2016-01-21",
+  "annal:type": "coll:Journal"
+}

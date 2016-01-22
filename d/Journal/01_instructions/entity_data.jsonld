@@ -1,0 +1,31 @@
+{
+  "rdfs:label": "Workflow for media capture",
+  "rdfs:comment": "In the first instance, media resources may be captured via \"journal\" entries - these are unstructured commentaries that can be associated with linked web resources or uploaded images and/or audio clips.\r\n\r\nTo add media resources, you will need to be logged in using an Id that is authorized to update the collection data.\r\n\r\nTo create a new journal entry, go to [Journal_entry/Journal/!new](/annalist/c/Performances_SteveB/v/Journal_entry/Journal/!new), or from the [list of journal entries](/annalist/c/Performances_SteveB/) click on the `New` button.\r\n\r\nSupply values for the fields displayed.\r\n1. The `Id` field may be left unchanged: the value entered here forms part of the URL used to view or edit the journal entry in future.  If changed, note that it may be a maximum of 32 chars, consisting of letters, digits and '_' only.\r\n2. Don't change the `Type` field. (This may be removed in future instances of the collection)\r\n3.The `Label` and `Comment` fields are used to enter a 1-line summary and more detailed description as required.  Both are optional, but I recommend filling in at least the label as this is used elsewhere to describe the entry.\r\n4. Add one or more web resources, uploaded images or uploaded audio clips as described below.\r\n5. Click `Save` when done.\r\n\r\nMultiple resources, images and/or audio clips can be attached to a single journal entry.  I suggest that each journal entry is used to group somewhat related resources. \r\n\r\n\r\n## Add a web resource\r\n\r\nTo reference a web resource hosted elsewhere on the web (e.g. on Flickr or YouTube), from the journal entry editing page click on the `Add web resource` button, then click on the `+` button that appears beside the new entry created.\r\n\r\nA new page will be presented:\r\n\r\n1. In the new page, the `Id` field may be replaced with something more meaningful (max 32 chars: letters, digits and `_` only)\r\n2. Optionally, enter values for `Label` and `Comment` for the web resource. (Label recommended)\r\n3. Enter the URL of the web resource for `Web resource URL`.\r\n4. Click `Save`\r\n5. Back on the Journal entry editing page, in the blank `Web resources` field, select the new resource from the drop-down list.\r\n\r\nNOTE: when a web resource has been selected, the button changes to <img src=\"/annalist/c/Performances_SteveB/d/Image/00000002/Uploaded_image.png\" alt=\"Writing hand button\"/>.  Clicking this allows the selected web resource details to be edited.\r\n\r\n## Upload an image\r\n\r\nTo upload an image, from the journal entry editing page click on the `Add image` button, then click on the `+` button that appears beside the new entry created.\r\n\r\nA new page will be presented:\r\n\r\n1. In the new page, the `Id` field may be replaced with something more meaningful (max 32 chars: letters, digits and `_` only)\r\n2. Optionally, enter values for `Label` and `Comment` for the web resource (Label recommended).  In the `Comment` field, rich text may be entered using [Markdown](https://daringfireball.net/projects/markdown/) conventions.\r\n3. In field `Uploaded image` click the `Browse...` button and select a file from your local computer to be uploaded.\r\n4. Click `Save`\r\n5. Back on the Journal entry editing page, in the blank `Uploaded images` field, select the new resource from the drop-down list.\r\n\r\n\r\n## Upload an audio clip\r\n\r\nThe process for uploading an audio clip uses the `Uploaded audio clips` field, and is otherwise very similar to uploading an image.\r\n\r\n",
+  "coll:resources": [
+    {
+      "coll:web_resource_m": "Web_resource/20160117_Autographer"
+    }
+  ],
+  "coll:location": "",
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:images": [
+    {
+      "coll:Image": "Image/00000001"
+    },
+    {
+      "coll:Image": "Image/00000002"
+    }
+  ],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "01_instructions",
+  "@id": "./",
+  "coll:date": "2016-01-21",
+  "annal:type": "coll:Journal"
+}
