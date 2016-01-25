@@ -6,14 +6,14 @@
   "annal:inherit_from": "_coll/Performance_defs",
   "annal:comment": "Created by GK: 2016-01-21",
   "annal:default_list": "Journal_entries",
-  "annal:default_view_id": "Journal_note_view",
-  "annal:default_view_type": "Journal",
   "annal:default_view_entity": "00_contents",
+  "annal:default_view_type": "Journal",
+  "@id": "../",
+  "annal:default_view_id": "Journal_note_view",
   "@context": [
     "coll_context.jsonld"
   ],
   "annal:id": "Performances_SteveB",
-  "@id": "../",
   "@type": [
     "annal:Collection"
   ],
