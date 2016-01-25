@@ -6,7 +6,7 @@
   "@context": [
     "../../coll_context.jsonld"
   ],
-  "annal:id": "20160117_Autographer",
+  "annal:id": "20160117_Autographer_Carolan",
   "@id": "./",
   "@type": [
     "coll:Web_resource",

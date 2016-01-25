@@ -1,0 +1,27 @@
+{
+  "rdfs:label": "Resources for Phil Langran / Carmina performance",
+  "rdfs:comment": "Resources for Phil Langran / Carmina performance at The Maze, Nottingham, on 17 Jan 2016.",
+  "coll:resources": [
+    {
+      "coll:web_resource_m": "Web_resource/20160117_Autographer_Carolan"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/20160117_Autographer_GK"
+    }
+  ],
+  "coll:location": "The Maze",
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "coll:date": "2016-01-17",
+  "annal:id": "20160117_TheMaze",
+  "@id": "./",
+  "coll:images": [],
+  "annal:type": "coll:Journal"
+}

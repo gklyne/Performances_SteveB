@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "17-Jan-2016: Images from Autographer camera in the audience (quality not great)",
+  "rdfs:comment": "17-Jan-2016: Images from Autographer camera in the audience (quality not great)",
+  "coll:web_resource": "http://fast-project.annalist.net/pub/image/20160117-Carmina_Langran/",
+  "annal:type_id": "Web_resource",
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "20160117_Autographer_GK",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "coll:Web_resource"
+}
