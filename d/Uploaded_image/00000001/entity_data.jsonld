@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "Carmina publicity photo",
+  "rdfs:comment": "",
+  "coll:uploaded_image": {
+    "upload_name": "Uploaded_image",
+    "resource_name": "Uploaded_image.jpg",
+    "uploaded_size": 1623090,
+    "uploaded_file": "pipparoblivelarge.jpg",
+    "resource_type": "image/jpeg"
+  },
+  "annal:type_id": "Uploaded_image",
+  "@type": [
+    "coll:Uploaded_image",
+    "annal:EntityData"
+  ],
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "annal:id": "00000001",
+  "@id": "./",
+  "coll:image": {
+    "upload_name": "Uploaded_image",
+    "uploaded_size": 1623090,
+    "resource_name": "Uploaded_image.jpg",
+    "uploaded_file": "pipparoblivelarge.jpg",
+    "resource_type": "image/jpeg"
+  },
+  "annal:type": "coll:Uploaded_image"
+}
