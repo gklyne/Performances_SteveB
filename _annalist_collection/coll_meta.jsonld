@@ -9,7 +9,7 @@
   "annal:default_view_entity": "00_contents",
   "annal:default_view_type": "Journal",
   "@id": "../",
-  "annal:default_view_id": "Journal_note_view",
+  "annal:default_view_id": "Journal_entry",
   "@context": [
     "coll_context.jsonld"
   ],
